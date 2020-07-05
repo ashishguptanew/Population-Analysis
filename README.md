@@ -12,16 +12,27 @@ While creating the database, we've used the multiple variable includes random qu
 In this section, we've defined our main goals as given below;
 
  ▪ Number men VS women 
+ 
  ▪ Average Age 
+ 
  ▪ Number of each profession 
+ 
  ▪ Number of persons per area 
+ 
  ▪ Average income 
+ 
  ▪ Average value of a car 
+ 
  ▪ Number of persons with debts higher than x 
+ 
  ▪ Number of persons that have more than x% left on their mortgage    
+ 
  ▪ Average income per territory 
+ 
  ▪ Average income per sector 
+ 
  ▪ % of people having higher total debts than their yearly income 
+ 
  ▪ Average age of people having more than X$ of net worth 
 
 
